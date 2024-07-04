@@ -1,0 +1,8 @@
+{
+  "label": "Command Sheet",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Welcome to Command Sheet Docs"
+  }
+}

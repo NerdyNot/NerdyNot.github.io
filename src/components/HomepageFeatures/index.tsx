@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
         It's a Wiki page that covers topics related to DevOps and other technical subjects.
       </>
     ),
-    permalink: '/docs/Wiki/DevOps',
+    permalink: '/docs/category/devops',
   },
 ];
 
