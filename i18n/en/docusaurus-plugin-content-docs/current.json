@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.NerdyOpsSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar NerdyOpsSidebar"
+  },
+  "sidebar.NerdyOpsSidebar.category.Introduction.link.generated-index.description": {
+    "message": "Introduction NerdyOps.",
+    "description": "The generated-index page description for category Introduction in sidebar NerdyOpsSidebar"
+  },
+  "sidebar.WikiSidebar.category.DevOps": {
+    "message": "DevOps",
+    "description": "The label for category DevOps in sidebar WikiSidebar"
+  },
+  "sidebar.WikiSidebar.category.DevOps.link.generated-index.description": {
+    "message": "Welcomd to DevOps Wiki Docs",
+    "description": "The generated-index page description for category DevOps in sidebar WikiSidebar"
+  }
+}

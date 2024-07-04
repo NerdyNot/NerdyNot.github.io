@@ -1,23 +1,23 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
+/* index.module.css */
 
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+  background-color: #000000; /* 원하는 배경색으로 변경 */
+  text-align: center; /* 텍스트 중앙 정렬 */
+  padding: 4rem 0; /* 배너의 상하 패딩 조정 */
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.hero__title {
+  font-size: 3rem; /* 타이틀 글꼴 크기 조정 */
+  color: #fff; /* 타이틀 글자 색상 변경 */
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.hero__subtitle {
+  font-size: 1.5rem; /* 서브타이틀 글꼴 크기 조정 */
+  color: #ddd; /* 서브타이틀 글자 색상 변경 */
+}
+
+.button--secondary {
+  background-color: #fff; /* 버튼 배경색 변경 */
+  color: #4a90e2; /* 버튼 글자 색상 변경 */
+  border: 2px solid #4a90e2; /* 버튼 테두리 추가 */
 }
