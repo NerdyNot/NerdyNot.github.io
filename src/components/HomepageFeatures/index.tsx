@@ -11,22 +11,22 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'NerdyOps',
+    title: 'CICD',
     description: (
       <>
-        This is a documentation page for NerdyOps, a remote management program that utilizes LLM and LangChain.
+        CICD 관련 문서를 저장하고 있는 페이지입니다.
       </>
     ),
-    permalink: '/docs/NerdyOps/Introduction', 
+    permalink: '/docs/CICD/intro', 
   },
   {
-    title: 'Wiki Docs',
+    title: 'Infrastructure',
     description: (
       <>
-        It's a Wiki page that covers topics related to DevOps and other technical subjects.
+        Infrastructure 관련 문서를 저장하고 있는 페이지입니다.
       </>
     ),
-    permalink: '/docs/category/devops',
+    permalink: '/docs/Infrastructure/intro',
   },
 ];
 

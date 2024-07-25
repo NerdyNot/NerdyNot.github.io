@@ -48,7 +48,7 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'CICDOpsSidebar',
+          sidebarId: 'CICDSidebar',
           position: 'left',
           label: 'CICD',
         },
