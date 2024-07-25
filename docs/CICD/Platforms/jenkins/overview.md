@@ -1,10 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
-# Jenkins
-
-## Overview
+# Overview
 Jenkins는 오픈 소스 자동화 서버로, 지속적 통합 및 지속적 배포(CI/CD) 파이프라인을 구축하고 관리할 수 있게 해주는 도구이다. 다양한 플러그인을 통해 빌드, 테스트, 배포 프로세스를 확장하고 커스터마이징할 수 있다.
 
 ## Components of Jenkins

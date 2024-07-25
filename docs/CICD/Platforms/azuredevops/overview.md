@@ -2,9 +2,7 @@
 sidebar_position: 1
 ---
 
-# Azure DevOps
-
-## Overview
+# Overview
 Azure DevOps는 마이크로소프트에서 제공하는 종합적인 DevOps 플랫폼으로, CI/CD 파이프라인을 자동화하고 소프트웨어 개발, 테스트, 배포를 지원하는 도구이다. Azure Repos, Azure Pipelines, Azure Boards, Azure Test Plans, Azure Artifacts 등의 다양한 서비스를 통해 개발 프로세스 전반을 관리할 수 있다.
 
 Azure DevOps는 퍼블릭 클라우드, 프라이빗 클라우드, 온프레미스 환경에서 모두 사용할 수 있으며, 다양한 운영 체제와 통합이 가능하다.

@@ -1,10 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# GitLab CI
-
-## Overview
+# Overview
 GitLab CI/CD는 GitLab에 내장된 지속적 통합 및 지속적 배포(CI/CD) 플랫폼으로, 코드 변경 사항을 자동으로 빌드, 테스트, 배포할 수 있게 해주는 도구이다. GitLab CI/CD를 사용하면 소프트웨어 개발 주기를 자동화하여 개발, 테스트, 배포 프로세스를 효율적으로 관리할 수 있다.
 
 ## Components of GitLab CI/CD
