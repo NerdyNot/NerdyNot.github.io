@@ -62,11 +62,7 @@ const config: Config = {
           href: 'https://github.com/NerdyNot/nerdynot.github.io',
           label: 'GitHub',
           position: 'right',
-        },
-        {
-          type: 'localeDropdown',
-          position: 'right',
-        },
+        }
       ],
     },
     footer: {
