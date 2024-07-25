@@ -16,11 +16,6 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'ko'],
-  },
-
   presets: [
     [
       'classic',
@@ -53,15 +48,15 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'NerdyOpsSidebar',
+          sidebarId: 'CICDOpsSidebar',
           position: 'left',
-          label: 'NerdyOps',
+          label: 'CICD',
         },
         {
           type: 'docSidebar',
-          sidebarId: 'WikiSidebar',
+          sidebarId: 'InfrastructureSidebar',
           position: 'left',
-          label: 'Wiki',
+          label: 'Infrastructure',
         },
         {
           href: 'https://github.com/NerdyNot/nerdynot.github.io',
